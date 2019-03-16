@@ -1,0 +1,29 @@
+body{
+	background-image: url(1.jpg);
+	background-size: cover;
+	color: #30FF00FF;
+	font-family: 'Pangolin', cursive;
+}
+
+a{
+	color: #FFAA00FF;
+}
+a:hover{
+	color: #E91537FF;
+}
+h1{
+	color: #0026FFFF;
+	margin-left: 300px;
+}
+.col:hover{
+	background-color: #282923FF;
+}
+img{
+	display: block;
+	margin-left: auto;
+	height: 200px;
+}
+#about{
+	display: flex;
+
+}
