@@ -51,3 +51,7 @@ img{
 ol{
 	display: flex;
 }
+
+.container{
+	margin: 25px 0px;
+}
